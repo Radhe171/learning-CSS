@@ -1,0 +1,15 @@
+#one{
+    font-size: 100px;
+}
+#two{
+    font-size: 40px;
+}
+#three{
+    font-size:50px;
+}
+#four{
+    /* text-transform: uppercase; */
+    /* using of text transform we change the text case  like uppercase /lowercase/capitalize/none  */
+    /* line-height: 200px;   */ 
+    /* here we gives distanse as per requir  */
+}
