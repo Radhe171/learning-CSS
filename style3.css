@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 500px;
+
+    background-color: blue;
+    border-width: 1px;
+    border-style: dashed;
+
+    border-color: aqua; 
+
+    text-align: center;
+    /* border-radius: 7%; */
+
+
+    padding-top:50px;
+    
+
+    /* padding: 1px 2px 3px 4px ; top/right/bottom/leftS */
+margin-top: 5px;
+margin: 20px 40px 60px 80px;
+}
+/* 
+h1{
+    height: 50px;
+    width: 200px; 
+    background-color: blueviolet;
+    /* border-width: 3px;
+    border-style: dashed;
+    border-color: black; */
+    /* border:2px dashed black; //   bordershorthand */
+    /* text-align: center; */
+  
+
+
+
